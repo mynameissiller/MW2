@@ -1,0 +1,28 @@
+body{
+background-color:orange;
+}
+img{
+height:50%;
+width:50%:
+}
+.banner_item{
+color:white;
+display:inline;
+}
+#banner{
+backround-color:#023;
+}
+a{
+color:orange;
+text-decoration:none;
+font-size: 16pt;
+padding:5px;
+}
+
+a:active{
+    color:white;
+    text-decoration: underline;
+}
+p{
+font-size:20pt;
+}
